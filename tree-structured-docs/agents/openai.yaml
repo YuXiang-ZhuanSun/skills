@@ -1,4 +1,4 @@
 interface:
   display_name: "Tree Structured Docs"
   short_description: "Shape flat docs into clear trees"
-  default_prompt: "Refactor this documentation into a clear 总-分-总 tree structure with a mind-map overview, grouped sections, and a final checklist."
+  default_prompt: "Refactor this Chinese or English documentation into a clear 总-分-总 / overview-detail-synthesis tree structure with a mind-map overview, grouped sections, and a final checklist."
